@@ -19,7 +19,7 @@ plt.title('linear regression graph')
 plt.xlabel('plosition level')
 plt.ylabel('salary')
 plt.show()
-is os not good model
+#is os not good model
 # this is for predictyion is predict 33ctc th
 lin_model_pred = lin_reg.predict([[6.5]])  #6.5 is a salary to predict future 
 print(lin_model_pred)
